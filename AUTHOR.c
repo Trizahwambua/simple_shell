@@ -1,3 +1,2 @@
-/* The file contains the name of project author
- * TRIZAH WAMBUA <wambuatrizzah5@gmail.com>
- */
+#This file contains names of project author
+Trizah Wambua <wambuatrizzah5@gmail.com>
